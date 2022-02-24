@@ -1,5 +1,4 @@
 
 
 
-
-[![](https://giphy.com/gifs/YyaKR9PFm4uf4eCltY")]()
+![](https://github.com/ayseldilan/public_resources/blob/main/gifs/Netflix/gifs/giphy.gif)
